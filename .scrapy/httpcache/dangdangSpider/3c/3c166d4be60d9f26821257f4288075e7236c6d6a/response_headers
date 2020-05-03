@@ -1,0 +1,10 @@
+Server: squid/3.3.8
+Mime-Version: 1.0
+Date: Tue, 28 Apr 2020 03:19:40 GMT
+Content-Type: text/html
+X-Squid-Error: ERR_CONNECT_FAIL 110
+Vary: Accept-Language
+Content-Language: en
+X-Cache: MISS from jackie
+X-Cache-Lookup: MISS from jackie:8000
+Via: 1.1 jackie (squid/3.3.8)
